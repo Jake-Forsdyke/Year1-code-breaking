@@ -1,0 +1,3 @@
+classdef PermutationKey
+    
+    properites
